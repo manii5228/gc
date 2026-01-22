@@ -96,8 +96,3 @@ Notes:
   * `min_detection_confidence` and `min_tracking_confidence` can be adjusted for speed vs reliability.
 
 ---
-
-
-## Author
-
-Your name here
